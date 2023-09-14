@@ -1,14 +1,7 @@
-![Profile Views](https://komarev.com/ghpvc/?username=narges-mohammadi&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--profile banner-->
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Narges%20Mohammadi&width=800&height=150" />
-</div>
-<!--profile views-->
-<div align="center">
-  <a href="https://u8views.com/github/narges-mohammadi"><img src="https://u8views.com/api/v1/github/profiles/64517621/views/day-week-month-total-count.svg"></a>
-</div>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=narges-mohammadi&show_icons=true&theme=radical)
 
 ### Hi there 👋
 - 🌱 I’m currently learning PostgreSQL
